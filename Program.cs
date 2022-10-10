@@ -1,0 +1,14 @@
+﻿Console.WriteLine("WITAMY W QUIZIE WIEDZY");
+Console.WriteLine("Spróbuj odpowiedzieć na 5 pytań");
+Console.WriteLine();
+Console.WriteLine("Pytanie za 100 pkt");
+Console.WriteLine();
+Console.WriteLine("Jakie miasto jest stolicą Ukrainy?");
+Console.WriteLine();
+Console.WriteLine("1. Lwów");
+Console.WriteLine("2. Charków");
+Console.WriteLine("3. Kijów");
+Console.WriteLine("4. Odessa");
+Console.WriteLine();
+Console.Write("Proszę nacisnąć 1, 2, 3 lub 4 => ");
+Console.WriteLine();
